@@ -1,3 +1,7 @@
+# Seismic Python
+
+Now open for mods
+
 # Installation
 
 ```bash
